@@ -1,4 +1,4 @@
 <p align="center">
   <img src="asset/rain.gif"
-       style="width:80%; max-width:950px; border-radius:14px;" />
+       style="width:85%; max-width:1000px; max-height:380px; object-fit:cover; border-radius:14px;" />
 </p>
